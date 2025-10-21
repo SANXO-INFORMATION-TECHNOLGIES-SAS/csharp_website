@@ -1,2 +1,7 @@
-# AzSamApp1
- Azure Sample Web Application for learning purposes
+# 
+Csharp_WebApp
+ Esrte es un ejercicio academico, se ceerara,dfjkbh ldfjkbhdlbhdlkjbhldkjbhldhlkjdhlbhdlbhdlhlhlh
+
+
+
+ 
